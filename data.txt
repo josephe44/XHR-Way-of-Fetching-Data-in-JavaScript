@@ -1,0 +1,15 @@
+This data is gotten through Ajax method, XHR.<br><br>
+HTTP REQUEST CODE: <br>
+200: "ok"<br>
+400: "bad request"<br>
+404: "not found"<br>
+500: "internal server error"<br><br>
+
+READYSTATE VALUES
+0: request not initialized<br>
+1: server connection established<br>
+2: request received<br>
+3: processing request<br>
+4: request finished and response is ready
+
+
